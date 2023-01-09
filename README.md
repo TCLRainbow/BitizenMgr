@@ -2,5 +2,4 @@
 
 Database - SQLite
 
-User <-> App <-> Database
-User<->App  App<->Database
+Get employees of a built work floor
